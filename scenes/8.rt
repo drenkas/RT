@@ -1,0 +1,6 @@
+#info		posx	posy	posz	rot				size	BGR				height	K	size2
+camera		1		50		-100
+light		-70		0		-90								250,250,250
+light		-60		60		70								250,250,250
+paraboloid	0		-25		60		0.0,1.0,0.0		25		10,120,180		20		5	
+disk		-1		-25		60		0.0,-1.0,0.0			130,230,130		10

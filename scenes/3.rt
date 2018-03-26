@@ -1,0 +1,6 @@
+#info		posx	posy	posz	rot				size	BGR				height	K	size2
+camera		0		200		-500
+light		0		0		-100							250,250,250
+cone		0		0		-20		0.0,1.0,0.0		100		0,250,255
+sphere		0		0		40						30		0,0,250
+plane		0		-100	0		0.0,1.0,0.0				250,0,0

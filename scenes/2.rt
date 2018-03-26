@@ -1,0 +1,4 @@
+#info		posx	posy	posz	rot				size	BGR				height	K	size2
+camera		1		10		-500
+light		100		0		0								250,250,250
+halfsphere	0		0		0						60		0,0,250

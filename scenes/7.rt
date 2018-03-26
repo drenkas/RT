@@ -1,0 +1,6 @@
+#info		posx	posy	posz	rot				size	BGR
+camera		0		-6		1
+light		-60		60		70								250,250,250
+light		-20		-50		70								250,0,250
+light		-70		0		-90								250,250,250
+mobius		0		1		-2						0.4		0,150,250

@@ -1,0 +1,5 @@
+#info		posx	posy	posz	rot				size	BGR				height	size2
+camera		1		1		-5
+light		-70		0		-90								250,250,250
+light		-60		60		70								250,250,250
+triangle	-2.0,0.0,2.0	2.0,0.0,2.0	0.0,0.0,0.0	0.0,1.0,0.0				130,130,130
